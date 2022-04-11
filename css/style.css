@@ -53,6 +53,7 @@ body {
     letter-spacing: 0.02em;
     text-decoration: none;
     color: var(--header-text-color);
+    cursor: pointer;
    
 }
 .header_link:hover {
@@ -119,6 +120,7 @@ body {
     margin: 350px 700px 200px 700px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
+    cursor: pointer;
     }
 .order_button:hover {
     background-color: #188CE8;
@@ -194,6 +196,7 @@ body {
     color: var(--header-text-color);
     background-color: #F5F4FA;
     border-radius: 4px;
+    cursor: pointer;
 }
 .button_filter_active {
     font-style: normal;
@@ -205,6 +208,7 @@ body {
     background-color: var(--active-color);
     color: #FFFFFF;
     border-radius: 4px;
+    cursor: pointer;
 }
 .button_filter:hover {
     background-color: var(--active-color);
